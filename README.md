@@ -7,3 +7,5 @@ Para sair da zona de conforto e complementar meus estudos, decidi desenvolver me
 Linguagem: Python.
 
 Bibliotecas: NumPy, Pandas, Matplotlib e Seaborn.
+
+Ambiente de Desenvolvimento: Google Colab
